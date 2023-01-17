@@ -194,7 +194,6 @@ primitive are further divided into two parts : numeric and Non numeric
 numeric : they are further divided into two parts : Integeric and Decimal
 Integeric : byte, short, int, long.
 Decimal : float and double.
-
 non-numeric : char and boolean
 
 Non primitive : Strings and Arrays
