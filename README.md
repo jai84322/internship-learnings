@@ -1,4 +1,4 @@
 # internship-learnings
 
-W1 = week 1
-D1 = day 1
+W1 = week 1 || 
+D4 = day 1
